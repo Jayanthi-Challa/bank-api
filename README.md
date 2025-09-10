@@ -93,6 +93,6 @@ query {
 ---
 
 ## Time Taken
-```css
+```arduino
 Approximately 6 hours (including environment setup, coding, testing, and documentation).
 ```
