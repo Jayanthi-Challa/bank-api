@@ -26,8 +26,8 @@ This repository implements a REST + GraphQL API for Bank & Branch data.
    ```bash
    uvicorn app.main:app --reload
 4. Open:
-   REST docs → http://127.0.0.1:8000/docs
-   GraphQL playground → http://127.0.0.1:8000/gql
+   - REST docs → http://127.0.0.1:8000/docs
+   - GraphQL playground → http://127.0.0.1:8000/gql
 
 ---
 
